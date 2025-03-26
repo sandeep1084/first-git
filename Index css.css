@@ -1,0 +1,46 @@
+.container
+{
+h1
+{
+color:black;
+text-align:center;
+}
+.ad { margin-top: 15px;
+     margin-left: 200px;} 
+input { margin-top: 10px; width: 300px; border-radius: 10px; height: 20px; margin-left: 200px;}  
+button
+{
+ margin-top: 30px;
+width:100px;
+width: 200px;
+
+text-align:center;
+padding:5px 10px;
+display: flex; 
+justify-content: center;
+color:green;
+margin-left: 250px;
+}
+.da{
+    margin-top: 15px;
+    margin-left: 200px;
+}
+button:hover{
+    color: #f20b60;
+    cursor: pointer;
+    background-color: black;
+    border-radius: 5px;
+
+    
+}
+display:block;
+display: flex; 
+flex-direction:column;
+
+background-color:pink;
+height:350px;
+width:725px;
+padding-top:25px;
+padding-bottom:1px;
+}
+
